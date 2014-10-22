@@ -1,0 +1,280 @@
+ke207r6497:l03_g02 student$ cat ~/.python_history 
+cafe = 1.5
+woche = 7
+ergebnis = cafe * woche
+print(ergebnis)
+cafe
+cafe * woche
+cafe = 2.5
+cafe
+cafe * woche
+type(cafe)
+cafe = "1.5"
+cafe * woche
+float(cafe)
+cafe * woche
+cafe = float(cafe)
+cafe * woche
+exit()
+exit
+print('Hello World')
+print('Internettechnik')
+Internettechnik
+'Internettechnik'
+'17*15'
+17*15
+'17'*15
+'17'*'15'
+str "year" 2013
+year=2013
+year
+type (year)
+type 7
+type (7)
+string="Internettechnik"
+string+year
+string+str(year)
+str
+help str
+help (str)
+string+str(year).upper
+string+str(year).upper()
+string.upper()+str(year).upper()
+str=horst
+str=("string")
+str=("string
+str=string
+str
+type (str)
+str=year
+type str
+type (str)
+exit()
+type(str)
+dir(str)
+"Hydra".__len__()
+"Hydraaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa".__len__()
+"Hydraaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa".__mul__(15)
+"Hydraaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa".__mul__(30000)
+"Hydraaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"*300000
+dir(str)
+"Hydraaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa".__sizeof__
+"Hydraaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa".__sizeof__()
+"Hydraaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa".__sizeof__()
+help(str.__sizeof__)
+history()
+history
+"Internettechnik %d" %7
+"Internettechnik".format(7)
+"Internettechnik{}".format(7)
+"Internettechnik{}".format(13)
+"Internettechnik{}".format(13,14)
+"Internettechnik{} {}".format(13,14)
+"Internettechnik{}- {}".format(13,14)
+"Internettechnik{1}- {0}".format(13,14)
+"Internettechnik{0}- {0}".format(13,14)
+help(str)
+import re
+help(re)
+dir(re)
+help(re.split)
+exit()
+message='wuerstl, wirschtl!'
+message
+dir()
+message[0]
+message[9]
+message[9:16]
+message[9:17]
+message[0:9]
+message[:9]
+message[9:]
+message
+message[-1]
+message[-3]
+message[-3:]
+list=[euro, dollar, pfund]
+list=["euro", "dollar", "pfund"]
+list[2]
+list[1]
+list[2]
+list[-]
+list[-1]
+list[-0]
+list[-1]
+list[-3]
+list[-6]
+help(list)
+def add(a,b):
+ return 2+3
+dir()
+type(add)
+add()
+add(2,1)
+def add(a,b):
+return a+b
+ return a+b
+def add(a,b):
+ return a+b
+add(1,3)
+def add(a,b=1):
+ return a+b
+add(2)
+add(2,4)
+add(a=17,b=3)
+add(b=17,a=3)
+add(b=17)
+import re
+help(re.split)
+exit
+exit()
+dir(str)
+help(str.split)
+a="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean varius eu sem eget luctus. In sagittis semper euismod. Pellentesque in nibh vel dolor pulvinar malesuada. Proin ut nisl augue. Duis a urna augue. Praesent euismod turpis sed convallis accumsan. Sed ac pretium ante. Mauris fringilla vitae nibh hendrerit feugiat."
+print(a)
+print("Done")
+a
+a.split()
+a="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean varius eu sem eget luctus. In sagittis semper euismod. Pellentesque in nibh vel dolor pulvinar malesuada. Proin ut nisl augue. Duis a urna augue. Praesent euismod turpis sed convallis accumsan. Sed ac pretium ante. Mauris fringilla vitae nibh hendrerit                 feugiat."
+a.split()
+a.split(sep=" ")
+a.split
+a.split()
+a.split(sep=".")
+a.split()
+b=a.split()
+b
+dir(list)
+help(list.sort)
+b.sort
+b.sort()
+b
+b.sort(reverse)
+b.sort(reverse=true)
+b.sort(reverse=True)
+b
+b.sort(reverse=True,key=len)
+b
+b.sort(reverse=True,key=lower)
+b.sort(reverse=True,key=str.lower)
+b
+b.sort(reverse=True,key=str.lower())
+b.sort(reverse=True,key=str.lower)
+b.len
+a
+sorted(a)
+sorted(b)
+b
+exit()
+help(filter)
+range()
+range(100)
+range(1)
+range(100)
+list(range(100))
+list(range(101))
+list(range(1:101))
+list(range(1,101))
+7%2
+8%2
+def evenfilter(a):
+ return not a%2
+evenfilter(7)
+evenfilter(8)
+filter(evenfilter(), numbers)
+numbers=list(range(1,101))
+filter(evenfilter(), numbers)
+help(filter)
+filter(evenfilter, numbers)
+list(filter(evenfilter, numbers))
+def starmapper(a):
+ return a*"*"
+starmapper(2)
+starmapper(98)
+list(filter(starmapper, numbers))
+list(map(starmapper, numbers))
+help(str)
+dir
+dir()
+dir('__builtins__')
+dir(__builtins__)
+import re
+dir(re)
+help(re.split)
+x = 10
+x
+type(x)
+dir()
+exit()
+"hallo gruppe 2. ich bin Peter"
+"hallo gruppe 2. ich bin Peter"[0]
+"hallo gruppe 2. ich bin Peter"[0:4]
+"hallo gruppe 2. ich bin Peter"[0:5][B
+"hallo gruppe 2. ich bin Peter"[:5]
+"hallo gruppe 2. ich bin Peter"[25:29]
+"hallo gruppe 2. ich bin Peter"[-24:29]
+"hallo gruppe 2. ich bin Peter"[:]
+"hallo gruppe 2. ich bin Peter"[:-5]
+"hallo gruppe 2. ich bin Peter"[-5:]
+l =[1,2,3,4,5,6]
+l
+range(6)
+list(range(6))
+list(range(1,6))
+list(range(1,7))
+l=list(range(1,7))
+sl
+l[2:4]
+l[-2:]
+lyrics = """Some things in life are bad
+They can really make you mad
+Other things just make you swear and curse.
+When you're chewing on life's gristle
+Don't grumble, give a whistle
+And this'll help things turn out for the best...
+    And...always look on the bright side of life...
+    Always look on the light side of life...  """
+lyrics
+help(split)
+help(str.split)
+lyrics.split()
+lyrics.split('e')
+lyrics.split(' ')
+lyrics.split()
+words=lyrics.split()
+words
+words.sort()
+words
+words.reverse()
+words
+words.sort(reverse=true)
+words.sort(reverse=True)
+words
+help(str.sort)
+help(list.sort)
+words.sort(key=len())
+words.sort(key=len)
+words
+words.sort(key=lower)
+words.sort(key=str.lower)
+words
+sorted(words)
+sorted(words,key=str.len)
+words
+def longwords (w):
+ return len(w)>8
+longwords("hallo")
+longwords("hallihallo")
+filter(longwords, words)
+list(filter(longwords, words))
+words
+map(str.upper, words)
+list(map(str.upper, words))
+list(map(strlen, words))
+list(map(len, words))
+def stars(w):
+ return "*" * len(w)
+list(map(stars, word))
+list(map(stars, words))
+def longwords (w):
+ke207r6497:l03_g02 student$ 
